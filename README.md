@@ -7,6 +7,13 @@
 
 ###
 ```
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3142p6zqmnceikbuneuy2iiubtuy&count=1&width=550&radius=20&avatar=0&album=1&footer=wave&bg_color=000000&accent_color=ffffff&logo_color=ffffff?theme=dark&rainbow=false&scan=false" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
 # `vnzlima`
 
 ### STUDENT DEVELOPER · DIGITAL PRODUCT BUILDER
