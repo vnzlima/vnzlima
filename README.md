@@ -9,10 +9,8 @@
 ```
 
 <div data-importer="music" align="center">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3142p6zqmnceikbuneuy2iiubtuy&count=1&width=900&radius=15&avatar=0&unique=1&progress=0&duration=1&album=1&footer=wave&text_color=ffffff&artist_color=8996a4&accent_color=ffffff&logo_color=fafafa?theme=dark" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3142p6zqmnceikbuneuy2iiubtuy&count=1&width=900&radius=15&avatar=0&unique=1&album=1&bg_color=0d1117&accent_color=ffffff&logo_color=ffffff?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
-
-###
 
 ###
 
